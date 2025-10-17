@@ -1,6 +1,7 @@
 replicaCount: 1
-
 resources:
   requests:
     cpu: 50m
     memory: 50M
+image:
+  tag: b9648d
