@@ -1,0 +1,11 @@
+site_name: 'python-app-2'
+site_description: 'Main documentation for the python-app-2'
+repo_url: https://github.com/JUSG/python-app-2
+edit_url: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting started: 'index.md'
